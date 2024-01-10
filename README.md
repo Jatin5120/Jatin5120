@@ -83,21 +83,19 @@ Connect with me across the digital landscape:
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Jatin5120&show_icons=true&count_private=true&title_color=ffc000&text_color=ffffff&icon_color=ffc000&bg_color=2E3440&hide_border=true&show_icons=true)](http://www.github.com/Jatin5120)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jatin5120&theme=nord&hide_border=true&ring=FFC000&sideLabels=FFC000&currStreakLabel=FFC000&fire=FFC000&currStreakNum=FFC000&sideNums=FFC000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Jatin5120&show_icons=true&count_private=true&title_color=ffc000&text_color=ffffff&icon_color=ffc000&bg_color=2E3440&hide_border=true&show_icons=true)](http://www.github.com/Jatin5120) [![GitHub Streak](https://streak-stats.demolab.com?user=Jatin5120&theme=nord&hide_border=true&ring=FFC000&sideLabels=FFC000&currStreakLabel=FFC000&fire=FFC000&currStreakNum=FFC000&sideNums=FFC000)](https://git.io/streak-stats)
 
 [![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jatin5120&bg_color=2E3440&color=ffffff&line=ffc000&point=ffffff&area_color=4C566A&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/Jatin5120)
 
 ## Top Repositories
 
-[![College-App](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=College-App&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/College-App)
 
-[![FindTheFocus](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=FindTheFocus&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/FindTheFocus)
 
-[![Marvel-App](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=Marvel-App&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/Marvel-App)
+[![College-App](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=College-App&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/College-App) [![FindTheFocus](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=FindTheFocus&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/FindTheFocus)
 
-[![Clock](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=Clock&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/Clock)
+[![Marvel-App](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=Marvel-App&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/Marvel-App) [![Clock](https://github-readme-stats.vercel.app/api/pin/?username=Jatin5120&repo=Clock&title_color=FCC000&text_color=ffffff&icon_color=FCC000&bg_color=2E3440&hide_border=true&locale=en)](http://www.github.com/Jatin5120/Clock)
+
+
 
 <!-- bg_color: 2E3440 -->
 <!-- primary: FCC000 -->
