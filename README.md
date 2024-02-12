@@ -10,7 +10,9 @@ Welcome to my coding journey, where each line of code is a step towards crafting
 
 I am not just a developer; I am an architect of digital solutions, sculpting code into elegant and efficient applications. My journey began with a curiosity for technology, and today, I stand as a seasoned developer with a profound understanding of mobile app development.
 
-Whether it's orchestrating the symphony of widgets in Flutter or navigating the complexities of server-side development with Serverpod, I am always on the lookout for the perfect blend.
+When it comes to orchestrating the symphony of widgets in Flutter, I am always on the lookout for the perfect blend.
+
+I also share my insights and experiences through blogs on [Medium](https://jatin5120.medium.com). Explore a deeper dive into the tech world with my written perspectives!
 
 🧠  Currently I'm learning [Serverpod](https://serverpod.dev)
 
