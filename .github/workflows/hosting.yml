@@ -1,13 +1,13 @@
-name: Snake generator
+name: Snake Animation
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" #  run every hour
+    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Create snake
@@ -31,10 +31,29 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=#FCC000&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: actions/upload-artifact@v4
         with:
-          target_branch: output
-          build_dir: dist
+          path: dist/*
+
+  upload:
+    needs: [generate]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Download Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloads
+      - name: Move artifacts to dist
+        run: |
+          rm -rf dist
+          mv downloads/artifact/ dist/
+      - name: Commit & push changes
+        uses: EndBug/add-and-commit@v9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          add: "dist"
+          message: Update github contribution snake animation
+          signoff: true
