@@ -56,4 +56,4 @@ jobs:
         with:
           add: "dist"
           message: Update github contribution snake animation
-          signoff: true
+          commit: --signoff
