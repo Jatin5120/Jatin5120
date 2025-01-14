@@ -4,8 +4,8 @@
 
 Welcome to my coding journey, where each line of code is a step towards crafting seamless digital experiences. With over 4 years in the realm of Flutter development, my passion for innovation and mastery over the craft has been a driving force in my career 🚀. By day, I'm crafting sleek and efficient mobile apps; by night, I'm probably reading about the latest tech trends or experimenting with a new coding language.
 
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## About Me
 
