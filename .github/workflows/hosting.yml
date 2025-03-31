@@ -4,7 +4,17 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    # Run this workflow every day at midnight (00:00 UTC)
+    # The cron syntax: "minute hour day_of_month month day_of_week"
+    # "0 0 * * *" means:
+    #   - 0 = At minute 0
+    #   - 0 = At hour 0 (midnight)
+    #   - * = Every day of the month
+    #   - * = Every month
+    #   - * = Every day of the week
+    #
+    # */6 means: Run every 6 days
+    - cron: "0 0 * * */6"
 
 jobs:
   generate:
